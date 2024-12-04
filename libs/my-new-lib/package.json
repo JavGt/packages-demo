@@ -6,6 +6,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavGt/packages-demo"
+  },
   "exports": {
     ".": {
       "import": "./index.mjs",

@@ -67,7 +67,7 @@
         },
         {
           "file": "libs/my-new-lib/package.json",
-          "hash": "8567962067814015413"
+          "hash": "6004583153306331108"
         },
         {
           "file": "libs/my-new-lib/project.json",
@@ -137,7 +137,7 @@
         },
         {
           "file": "libs/my-new-lib-2/package.json",
-          "hash": "6989475908194486014"
+          "hash": "10145906616996202674"
         },
         {
           "file": "libs/my-new-lib-2/project.json",
@@ -188,12 +188,12 @@
     },
     "nonProjectFiles": [
       {
-        "file": ".github/workflows/publish.yml",
-        "hash": "3203474677895942859"
+        "file": ".gitignore",
+        "hash": "17518101370203799420"
       },
       {
-        "file": ".gitignore",
-        "hash": "6851985586017155822"
+        "file": ".npmrc",
+        "hash": "14811914485333114286"
       },
       {
         "file": ".prettierignore",
@@ -202,34 +202,6 @@
       {
         "file": ".prettierrc",
         "hash": "16267754514737964994"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/README.md",
-        "hash": "147907374448662814"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/index.d.ts",
-        "hash": "8225393865049797812"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/index.js",
-        "hash": "16618435518565181830"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/index.mjs",
-        "hash": "130993761232382089"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/lib/my-new-lib-2.d.ts",
-        "hash": "10328488547928376350"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/package.json",
-        "hash": "2944479737713891927"
-      },
-      {
-        "file": "dist/libs/my-new-lib-2/style.css",
-        "hash": "3244421341483603138"
       },
       {
         "file": "dist/libs/my-new-lib/README.md",
@@ -253,7 +225,7 @@
       },
       {
         "file": "dist/libs/my-new-lib/package.json",
-        "hash": "12354367346078954337"
+        "hash": "6004583153306331108"
       },
       {
         "file": "dist/libs/my-new-lib/style.css",
@@ -277,15 +249,15 @@
       },
       {
         "file": "nx.json",
-        "hash": "8977093829377851144"
+        "hash": "3790000929440957977"
       },
       {
         "file": "package-lock.json",
-        "hash": "14114077697619586770"
+        "hash": "16717678654282119515"
       },
       {
         "file": "package.json",
-        "hash": "6315268840629765835"
+        "hash": "13650079101786713129"
       },
       {
         "file": "tsconfig.base.json",
