@@ -1,6 +1,6 @@
 {
   "name": "@test-org2/my-new-lib-2",
-  "version": "2.1.0",
+  "version": "2.2.0-0",
   "main": "./index.js",
   "types": "./index.d.ts",
   "publishConfig": {
