@@ -45,76 +45,6 @@
   ],
   "fileMap": {
     "projectFileMap": {
-      "my-new-lib": [
-        {
-          "file": "libs/my-new-lib/.babelrc",
-          "hash": "2946678488919325452"
-        },
-        {
-          "file": "libs/my-new-lib/README.md",
-          "hash": "15919352191753946949"
-        },
-        {
-          "file": "libs/my-new-lib/eslint.config.js",
-          "hash": "18206053935892145363",
-          "deps": [
-            "npm:@nx/eslint-plugin"
-          ]
-        },
-        {
-          "file": "libs/my-new-lib/jest.config.ts",
-          "hash": "8257674029886264123"
-        },
-        {
-          "file": "libs/my-new-lib/package.json",
-          "hash": "6004583153306331108"
-        },
-        {
-          "file": "libs/my-new-lib/project.json",
-          "hash": "5573659994985372216"
-        },
-        {
-          "file": "libs/my-new-lib/src/index.ts",
-          "hash": "14924230148129155619"
-        },
-        {
-          "file": "libs/my-new-lib/src/lib/my-new-lib.module.css",
-          "hash": "125145030238681982"
-        },
-        {
-          "file": "libs/my-new-lib/src/lib/my-new-lib.spec.tsx",
-          "hash": "15690571548402876007",
-          "deps": [
-            "npm:@testing-library/react"
-          ]
-        },
-        {
-          "file": "libs/my-new-lib/src/lib/my-new-lib.tsx",
-          "hash": "16419608034615712128"
-        },
-        {
-          "file": "libs/my-new-lib/tsconfig.json",
-          "hash": "10374583890390798648"
-        },
-        {
-          "file": "libs/my-new-lib/tsconfig.lib.json",
-          "hash": "6750625921117520019"
-        },
-        {
-          "file": "libs/my-new-lib/tsconfig.spec.json",
-          "hash": "6514620907549802163"
-        },
-        {
-          "file": "libs/my-new-lib/vite.config.ts",
-          "hash": "15861404953905565221",
-          "deps": [
-            "npm:vite",
-            "npm:@vitejs/plugin-react",
-            "npm:vite-plugin-dts",
-            "npm:@nx/vite"
-          ]
-        }
-      ],
       "my-new-lib-2": [
         {
           "file": "libs/my-new-lib-2/.babelrc",
@@ -177,6 +107,76 @@
         {
           "file": "libs/my-new-lib-2/vite.config.ts",
           "hash": "962313477594127875",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-react",
+            "npm:vite-plugin-dts",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "my-new-lib": [
+        {
+          "file": "libs/my-new-lib/.babelrc",
+          "hash": "2946678488919325452"
+        },
+        {
+          "file": "libs/my-new-lib/README.md",
+          "hash": "15919352191753946949"
+        },
+        {
+          "file": "libs/my-new-lib/eslint.config.js",
+          "hash": "18206053935892145363",
+          "deps": [
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "libs/my-new-lib/jest.config.ts",
+          "hash": "8257674029886264123"
+        },
+        {
+          "file": "libs/my-new-lib/package.json",
+          "hash": "6004583153306331108"
+        },
+        {
+          "file": "libs/my-new-lib/project.json",
+          "hash": "5573659994985372216"
+        },
+        {
+          "file": "libs/my-new-lib/src/index.ts",
+          "hash": "14924230148129155619"
+        },
+        {
+          "file": "libs/my-new-lib/src/lib/my-new-lib.module.css",
+          "hash": "125145030238681982"
+        },
+        {
+          "file": "libs/my-new-lib/src/lib/my-new-lib.spec.tsx",
+          "hash": "15690571548402876007",
+          "deps": [
+            "npm:@testing-library/react"
+          ]
+        },
+        {
+          "file": "libs/my-new-lib/src/lib/my-new-lib.tsx",
+          "hash": "16419608034615712128"
+        },
+        {
+          "file": "libs/my-new-lib/tsconfig.json",
+          "hash": "10374583890390798648"
+        },
+        {
+          "file": "libs/my-new-lib/tsconfig.lib.json",
+          "hash": "6750625921117520019"
+        },
+        {
+          "file": "libs/my-new-lib/tsconfig.spec.json",
+          "hash": "6514620907549802163"
+        },
+        {
+          "file": "libs/my-new-lib/vite.config.ts",
+          "hash": "15861404953905565221",
           "deps": [
             "npm:vite",
             "npm:@vitejs/plugin-react",

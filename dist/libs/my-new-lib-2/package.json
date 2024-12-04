@@ -1,10 +1,14 @@
 {
   "name": "@test-org2/my-new-lib-2",
-  "version": "1.0.2-1",
+  "version": "2.1.0-0",
   "main": "./index.js",
   "types": "./index.d.ts",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavGt/packages-demo"
   },
   "exports": {
     ".": {
