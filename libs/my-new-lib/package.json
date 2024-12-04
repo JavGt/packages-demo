@@ -1,8 +1,11 @@
 {
-  "name": "@myorg/my-new-lib",
+  "name": "@test-org2/my-new-lib",
   "version": "0.0.1",
   "main": "./index.js",
   "types": "./index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "import": "./index.mjs",
