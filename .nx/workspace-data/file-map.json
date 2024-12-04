@@ -67,7 +67,7 @@
         },
         {
           "file": "libs/my-new-lib/package.json",
-          "hash": "9559169165946407130"
+          "hash": "8567962067814015413"
         },
         {
           "file": "libs/my-new-lib/project.json",
@@ -137,7 +137,7 @@
         },
         {
           "file": "libs/my-new-lib-2/package.json",
-          "hash": "17286675583491146024"
+          "hash": "6989475908194486014"
         },
         {
           "file": "libs/my-new-lib-2/project.json",
@@ -281,7 +281,7 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "9378735810529280689"
+        "hash": "14114077697619586770"
       },
       {
         "file": "package.json",
