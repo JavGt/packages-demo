@@ -615,3 +615,25 @@ LoadPluginError: Could not load plugin @nx/vite/plugin
 [NX Daemon Server] - 2024-12-04T07:11:41.838Z - Closed a connection. Number of open connections: 0
 [NX Daemon Server] - 2024-12-04T07:11:41.838Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
 [NX Daemon Server] - 2024-12-04T07:11:41.838Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T07:59:45.465Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:59:45.468Z - [WATCHER]: Subscribed to changes within: C:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:59:45.475Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:59:45.476Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:59:45.476Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:59:45.478Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:59:45.478Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:59:45.478Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:59:45.479Z - [WATCHER]: Stopping the watcher for C:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:59:45.480Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:59:45.480Z - [WATCHER]: Stopping the watcher for C:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T08:00:03.180Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T08:00:03.183Z - [WATCHER]: Subscribed to changes within: C:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T08:00:03.191Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T08:00:03.193Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T08:00:03.194Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T08:00:03.196Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-04T08:00:03.197Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-04T08:00:03.197Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-12-04T08:00:03.197Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T08:00:03.198Z - [WATCHER]: Stopping the watcher for C:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T08:00:03.198Z - [WATCHER]: Stopping the watcher for C:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)

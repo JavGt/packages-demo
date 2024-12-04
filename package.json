@@ -1,5 +1,5 @@
 {
-  "name": "@pck/root",
+  "name": "@test-org2/root",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "workspaces": [
-    "packages/a"
+    "libs/*"
   ],
   "devDependencies": {
     "@babel/core": "^7.14.5",

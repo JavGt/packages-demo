@@ -45,5 +45,16 @@
       }
     }
   },
-  "release": {}
+  "release": {
+    "changelog": {
+      "workspaceChangelog": false
+    },
+    "git": {
+      "commit": true,
+      "tag": false
+    },
+    "version": {
+      "conventionalCommits": true
+    }
+  }
 }
