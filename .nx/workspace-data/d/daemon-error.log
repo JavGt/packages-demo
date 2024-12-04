@@ -1,0 +1,26 @@
+Daemon process terminated and closed the connection
+
+Messages from the log:
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Handled GLOB. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:28.316Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.317Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Handled HASH_GLOB. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:28.482Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.482Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.482Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:02:28.485Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.486Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.486Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+(node:13052) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+
+
+
+More information: c:\Users\jbaez\OneDrive\Escritorio\packages-demo\.nx\workspace-data\d\daemon.log

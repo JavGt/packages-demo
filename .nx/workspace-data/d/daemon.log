@@ -1,0 +1,617 @@
+[NX Daemon Server] - 2024-12-04T06:57:35.956Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T06:57:35.958Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T06:57:35.971Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:57:35.972Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T06:57:35.973Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:57:35.974Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T06:57:36.616Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T06:57:36.620Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:57:36.620Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:57:36.624Z - Time taken for 'loadNxPlugins' 641.8298999999997ms
+[NX Daemon Server] - 2024-12-04T06:57:36.649Z - Time taken for 'build-project-configs' 11.741099999999733ms
+[NX Daemon Server] - 2024-12-04T06:57:36.676Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-12-04T06:57:36.676Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T06:57:36.677Z - Time taken for 'total for creating and serializing project graph' 702.8103999999998ms
+[NX Daemon Server] - 2024-12-04T06:57:36.677Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T06:57:36.677Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 702. Response time: 1.
+[NX Daemon Server] - 2024-12-04T06:57:36.679Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:57:36.680Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:57:36.680Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T06:57:36.680Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T06:59:07.631Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-12-04T06:59:07.638Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T06:59:07.798Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T06:59:07.802Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-12-04T06:59:07.802Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:59:07.812Z - Time taken for 'hash changed files from watcher' 57.4768999999942ms
+[NX Daemon Server] - 2024-12-04T06:59:07.855Z - Time taken for 'build-project-configs' 45.57499999999709ms
+[NX Daemon Server] - 2024-12-04T06:59:07.946Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-12-04T06:59:07.947Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2024-12-04T06:59:07.947Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2024-12-04T06:59:07.947Z - Time taken for 'total execution time for createProjectGraph()' 19.171400000006543ms
+[NX Daemon Server] - 2024-12-04T06:59:08.491Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T06:59:08.491Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T06:59:08.492Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T06:59:08.493Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX Daemon Server] - 2024-12-04T06:59:09.726Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T06:59:09.728Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T06:59:09.740Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:09.740Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T06:59:09.741Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:09.743Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T06:59:09.979Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T06:59:09.979Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:59:09.979Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:59:09.984Z - Time taken for 'loadNxPlugins' 235.7463ms
+[NX Daemon Server] - 2024-12-04T06:59:10.008Z - Time taken for 'build-project-configs' 12.913499999999999ms
+[NX Daemon Server] - 2024-12-04T06:59:10.037Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-12-04T06:59:10.037Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T06:59:10.038Z - Time taken for 'total for creating and serializing project graph' 294.81129999999996ms
+[NX Daemon Server] - 2024-12-04T06:59:10.038Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T06:59:10.038Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 294. Response time: 1.
+[NX Daemon Server] - 2024-12-04T06:59:10.044Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:59:10.044Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:59:10.044Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T06:59:10.045Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T06:59:10.904Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:10.905Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T06:59:10.905Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:10.907Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T06:59:10.907Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T06:59:10.908Z - Time taken for 'total for creating and serializing project graph' 0.2700999999999567ms
+[NX Daemon Server] - 2024-12-04T06:59:10.908Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T06:59:10.908Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T06:59:11.056Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T06:59:11.056Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-12-04T06:59:11.168Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T06:59:11.168Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-12-04T06:59:11.168Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:59:11.170Z - Time taken for 'hash changed files from watcher' 0.2545000000000073ms
+[NX Daemon Server] - 2024-12-04T06:59:11.192Z - Time taken for 'build-project-configs' 20.69010000000003ms
+[NX Daemon Server] - 2024-12-04T06:59:11.206Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-12-04T06:59:11.206Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2024-12-04T06:59:11.206Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2024-12-04T06:59:11.207Z - Time taken for 'total execution time for createProjectGraph()' 9.16029999999978ms
+[NX Daemon Server] - 2024-12-04T06:59:12.073Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T06:59:12.073Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:12.073Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T06:59:12.074Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T06:59:12.074Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T06:59:12.075Z - Time taken for 'total for creating and serializing project graph' 0.2768999999998414ms
+[NX Daemon Server] - 2024-12-04T06:59:12.075Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T06:59:12.075Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T06:59:12.079Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:59:12.079Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:59:12.079Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T06:59:12.080Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:19.453Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T06:59:19.453Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T06:59:19.453Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T06:59:19.453Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T06:59:19.454Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX Daemon Server] - 2024-12-04T06:59:20.678Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T06:59:20.680Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T06:59:20.695Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:20.695Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T06:59:20.696Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T06:59:20.697Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T06:59:20.929Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T06:59:20.929Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:59:20.929Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T06:59:20.933Z - Time taken for 'loadNxPlugins' 230.88070000000002ms
+[NX Daemon Server] - 2024-12-04T06:59:20.959Z - Time taken for 'build-project-configs' 11.709100000000035ms
+[NX Daemon Server] - 2024-12-04T06:59:20.989Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-12-04T06:59:20.990Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T06:59:20.991Z - Time taken for 'total for creating and serializing project graph' 292.504ms
+[NX Daemon Server] - 2024-12-04T06:59:20.991Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T06:59:20.991Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 293. Response time: 1.
+[NX Daemon Server] - 2024-12-04T06:59:20.993Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:59:20.993Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-12-04T06:59:20.993Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T06:59:20.993Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:00:38.176Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:00:38.176Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:00:38.176Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:00:38.180Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:00:38.180Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T07:00:38.181Z - Time taken for 'total for creating and serializing project graph' 0.34899999998742715ms
+[NX Daemon Server] - 2024-12-04T07:00:38.181Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T07:00:38.181Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:00:45.911Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:00:45.911Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T07:00:45.912Z - Time taken for 'total for creating and serializing project graph' 0.2225999999936903ms
+[NX Daemon Server] - 2024-12-04T07:00:45.912Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T07:00:45.912Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:00:45.916Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:00:45.916Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:00:45.916Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:00:45.920Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:00:45.920Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:00:45.920Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:00:45.952Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:00:45.952Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T07:00:45.953Z - Time taken for 'total for creating and serializing project graph' 0.30069999999250285ms
+[NX Daemon Server] - 2024-12-04T07:00:45.953Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T07:00:45.953Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:07.487Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:07.487Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:07.487Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:07.489Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:07.489Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T07:01:07.490Z - Time taken for 'total for creating and serializing project graph' 0.47269999999844003ms
+[NX Daemon Server] - 2024-12-04T07:01:07.491Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T07:01:07.491Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:07.500Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:07.500Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:07.500Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:20.609Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T07:01:20.611Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-12-04T07:01:20.726Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T07:01:20.727Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-12-04T07:01:20.727Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T07:01:20.729Z - Time taken for 'hash changed files from watcher' 0.1827999999950407ms
+[NX Daemon Server] - 2024-12-04T07:01:20.749Z - Time taken for 'build-project-configs' 20.128700000001118ms
+[NX Daemon Server] - 2024-12-04T07:01:20.763Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-12-04T07:01:20.763Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2024-12-04T07:01:20.763Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2024-12-04T07:01:20.763Z - Time taken for 'total execution time for createProjectGraph()' 9.578800000002957ms
+[NX Daemon Server] - 2024-12-04T07:01:21.626Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:21.626Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:21.627Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:21.628Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:21.628Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T07:01:21.629Z - Time taken for 'total for creating and serializing project graph' 0.4031000000104541ms
+[NX Daemon Server] - 2024-12-04T07:01:21.629Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T07:01:21.630Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:21.633Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-12-04T07:01:21.633Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-12-04T07:01:21.633Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:21.633Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:23.560Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:23.560Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:23.560Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:23.562Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:23.562Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-12-04T07:01:23.563Z - Time taken for 'total for creating and serializing project graph' 0.49319999999715947ms
+[NX Daemon Server] - 2024-12-04T07:01:23.564Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-12-04T07:01:23.564Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:23.572Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:23.572Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:23.572Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:24.258Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T07:01:24.260Z - [WATCHER]: 0 file(s) created or restored, 23 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-12-04T07:01:24.261Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:01:24.261Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:24.261Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:24.261Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:01:24.261Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T07:01:24.261Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-12-04T07:01:25.507Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:01:25.509Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:01:25.517Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:25.518Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:25.519Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:25.520Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:26.166Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:26.167Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:26.167Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:26.168Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.169Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.169Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:26.170Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.170Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.170Z - Handled GLOB. Handling time: 1. Response time: 0.
+Plugin listed in `nx.json` not found: @nx/jest/plugin
+[NX Daemon Server] - 2024-12-04T07:01:26.182Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/jest/plugin
+LoadPluginError: Could not load plugin @nx/jest/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:26.182Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:26.182Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 661. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:26.183Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:26.196Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:26.197Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:26.197Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:26.198Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.199Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.199Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:26.199Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.200Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:26.200Z - Handled GLOB. Handling time: 0. Response time: 1.
+Plugin listed in `nx.json` not found: @nx/vite/plugin
+[NX Daemon Server] - 2024-12-04T07:01:27.232Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:27.232Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:27.233Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:27.233Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:27.234Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:27.235Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:27.235Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:27.235Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:31.284Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:31.284Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:31.284Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:31.285Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:31.286Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:31.286Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:31.286Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:31.287Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:35.062Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T07:01:35.063Z - [WATCHER]: packages/a was deleted
+
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+{
+  stack: 'LoadPluginError: Could not load plugin @nx/vite/plugin\n' +
+    '    at loadNxPluginAsync (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js:207:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async load (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js:38:30)\n' +
+    '    at async consumeMessage (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\messaging.js:38:26)',
+  message: 'Could not load plugin @nx/vite/plugin',
+  cause: {
+    stack: "Error: Cannot find module '@nx/vite/plugin'\n" +
+      'Require stack:\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js\n' +
+      '    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)\n' +
+      '    at Function.resolve (node:internal/modules/helpers:190:19)\n' +
+      '    at getPluginPathAndName (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js:143:30)\n' +
+      '    at loadNxPluginAsync (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js:199:38)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+      '    at async load (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js:38:30)\n' +
+      '    at async consumeMessage (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\messaging.js:38:26)',
+    message: "Cannot find module '@nx/vite/plugin'\n" +
+      'Require stack:\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js',
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      'c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js',
+      'c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js'
+    ]
+  },
+  plugin: '@nx/vite/plugin',
+  name: 'LoadPluginError'
+}
+
+Node.js v20.18.0
+[NX Daemon Server] - 2024-12-04T07:01:36.308Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:01:36.310Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:01:36.317Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:36.318Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:36.319Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:36.320Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:36.884Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:36.884Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:36.884Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:36.886Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.886Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.886Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:36.887Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.888Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.888Z - Handled GLOB. Handling time: 0. Response time: 1.
+Plugin listed in `nx.json` not found: @nx/vite/plugin
+[NX Daemon Server] - 2024-12-04T07:01:36.901Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:36.901Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:36.901Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 581. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:36.902Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:36.914Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:36.914Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:36.914Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:36.915Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.916Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.916Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:36.917Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.917Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:36.917Z - Handled GLOB. Handling time: 0. Response time: 0.
+Plugin listed in `nx.json` not found: @nx/jest/plugin
+[NX Daemon Server] - 2024-12-04T07:01:37.961Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T07:01:37.962Z - [WATCHER]: packages was deleted
+
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+{
+  stack: 'LoadPluginError: Could not load plugin @nx/vite/plugin\n' +
+    '    at loadNxPluginAsync (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js:207:15)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async load (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js:38:30)\n' +
+    '    at async consumeMessage (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\messaging.js:38:26)',
+  message: 'Could not load plugin @nx/vite/plugin',
+  cause: {
+    stack: "Error: Cannot find module '@nx/vite/plugin'\n" +
+      'Require stack:\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js\n' +
+      '    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)\n' +
+      '    at Function.resolve (node:internal/modules/helpers:190:19)\n' +
+      '    at getPluginPathAndName (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js:143:30)\n' +
+      '    at loadNxPluginAsync (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js:199:38)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+      '    at async load (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js:38:30)\n' +
+      '    at async consumeMessage (c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\messaging.js:38:26)',
+    message: "Cannot find module '@nx/vite/plugin'\n" +
+      'Require stack:\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js\n' +
+      '- c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js',
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      'c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\loader.js',
+      'c:\\Users\\jbaez\\OneDrive\\Escritorio\\packages-demo\\node_modules\\nx\\src\\project-graph\\plugins\\isolation\\plugin-worker.js'
+    ]
+  },
+  plugin: '@nx/vite/plugin',
+  name: 'LoadPluginError'
+}
+
+Node.js v20.18.0
+[NX Daemon Server] - 2024-12-04T07:01:39.224Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:01:39.227Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:01:39.242Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:39.243Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:39.245Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:39.248Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:39.793Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:39.794Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:01:39.794Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:39.796Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.796Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.797Z - Handled GLOB. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:39.797Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.797Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.797Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:39.808Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:39.808Z - Closed a connection. Number of open connections: 2
+Plugin listed in `nx.json` not found: @nx/vite/plugin
+[NX Daemon Server] - 2024-12-04T07:01:39.809Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:39.810Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.811Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:39.812Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.812Z - Handled GLOB. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:39.813Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.813Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:39.813Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 564. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:39.813Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:01:39.813Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:39.813Z - Closed a connection. Number of open connections: 2
+Plugin listed in `nx.json` not found: @nx/jest/plugin
+[NX Daemon Server] - 2024-12-04T07:01:40.345Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:40.345Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:40.345Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:40.346Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:40.346Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:40.346Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:40.346Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:40.347Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:40.875Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:40.877Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:40.878Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:40.881Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:40.882Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:40.884Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:40.884Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:01:40.885Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:44.399Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:44.399Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:44.400Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:44.401Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:44.401Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:44.402Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:44.402Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:01:44.402Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:49.945Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:49.945Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:49.945Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:49.946Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:49.947Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:49.947Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:49.947Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:49.947Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:51.006Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:51.006Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:51.006Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:51.007Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:51.008Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:51.008Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:51.008Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:51.008Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:55.079Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:55.080Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:01:55.080Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:01:55.081Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:01:55.081Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:01:55.081Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:01:55.081Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:01:55.082Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:04.129Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:04.129Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:04.129Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:04.129Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:02:04.130Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Could not load plugin @nx/vite/plugin
+LoadPluginError: Could not load plugin @nx/vite/plugin
+    at loadNxPluginAsync (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\loader.js:207:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async load (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:38:30)
+    at async consumeMessage (c:\Users\jbaez\OneDrive\Escritorio\packages-demo\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:38:26)
+[NX Daemon Server] - 2024-12-04T07:02:04.131Z - Done responding to the client null
+[NX Daemon Server] - 2024-12-04T07:02:04.131Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:04.132Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:17.056Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-12-04T07:02:17.078Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:02:17.078Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:17.078Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:02:17.078Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T07:02:18.278Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:02:18.281Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:02:18.294Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:18.295Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:18.297Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:18.301Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:02:23.271Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T07:02:23.271Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T07:02:23.271Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T07:02:23.279Z - Time taken for 'loadNxPlugins' 4967.6993ms
+[NX Daemon Server] - 2024-12-04T07:02:23.279Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:23.279Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:23.280Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:23.281Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.282Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:23.282Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.282Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:23.282Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:23.282Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:23.282Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:23.283Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:23.283Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:23.285Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.286Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.287Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.287Z - Handled HASH_GLOB. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:02:23.287Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.287Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:23.411Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.411Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.411Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:02:23.414Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.414Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:23.414Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+[NX Daemon Server] - 2024-12-04T07:02:27.384Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:27.385Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:27.385Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:27.388Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:02:27.388Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:02:27.389Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T07:02:27.390Z - Server stopped because: "Request to shutdown"
+[NX Daemon Server] - 2024-12-04T07:02:27.842Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:02:27.844Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:02:27.857Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:27.860Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:02:27.861Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:27.865Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-12-04T07:02:28.298Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-12-04T07:02:28.298Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T07:02:28.298Z - [REQUEST]: 
+[NX Daemon Server] - 2024-12-04T07:02:28.308Z - Time taken for 'loadNxPlugins' 428.91630000000004ms
+[NX Daemon Server] - 2024-12-04T07:02:28.309Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:28.309Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:28.310Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:28.312Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.313Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Handled GLOB. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:28.314Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:28.316Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.317Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Handled HASH_GLOB. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.318Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:28.482Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.482Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.482Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-12-04T07:02:28.485Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.486Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-12-04T07:02:28.486Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+(node:13052) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[NX Daemon Server] - 2024-12-04T07:02:29.637Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:29.637Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:29.638Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-12-04T07:02:29.639Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:02:29.640Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:02:29.640Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:02:29.646Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:02:29.647Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-12-04T07:02:29.647Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-12-04T07:02:29.647Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:02:29.647Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:02:29.647Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:02:29.648Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T07:02:29.649Z - Server stopped because: "Request to shutdown"
+[NX Daemon Server] - 2024-12-04T07:11:41.464Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:11:41.467Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:11:41.470Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:11:41.471Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-04T07:11:41.473Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:11:41.476Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:11:41.477Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:11:41.477Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:11:41.478Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:11:41.479Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:11:41.479Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)
+[NX Daemon Server] - 2024-12-04T07:11:41.819Z - Started listening on: \\.\pipe\nx\C:\Users\jbaez\AppData\Local\Temp\d4625273ccdad45e4b8b\d.sock
+[NX Daemon Server] - 2024-12-04T07:11:41.822Z - [WATCHER]: Subscribed to changes within: c:\Users\jbaez\OneDrive\Escritorio\packages-demo (native)
+[NX Daemon Server] - 2024-12-04T07:11:41.833Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:11:41.835Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:11:41.835Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-04T07:11:41.837Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:11:41.838Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-04T07:11:41.838Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-12-04T07:11:41.838Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-04T07:11:41.838Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (sources)
+[NX Daemon Server] - 2024-12-04T07:11:41.838Z - [WATCHER]: Stopping the watcher for c:\Users\jbaez\OneDrive\Escritorio\packages-demo (outputs)

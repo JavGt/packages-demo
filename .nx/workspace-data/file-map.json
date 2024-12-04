@@ -1,0 +1,268 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.1.4",
+  "pathMappings": {
+    "@myorg/my-new-lib": [
+      "libs/my-new-lib/src/index.ts"
+    ],
+    "@pck/my-new-lib-2": [
+      "libs/my-new-lib-2/src/index.ts"
+    ]
+  },
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    },
+    {
+      "name": "@nx/vite/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "testTargetName": "test",
+        "serveTargetName": "serve",
+        "previewTargetName": "preview",
+        "serveStaticTargetName": "serve-static",
+        "typecheckTargetName": "typecheck"
+      }
+    },
+    {
+      "name": "@nx/jest/plugin",
+      "options": {
+        "targetName": "test"
+      }
+    },
+    {
+      "name": "@nx/storybook/plugin",
+      "options": {
+        "serveStorybookTargetName": "storybook",
+        "buildStorybookTargetName": "build-storybook",
+        "testStorybookTargetName": "test-storybook",
+        "staticStorybookTargetName": "static-storybook"
+      }
+    }
+  ],
+  "fileMap": {
+    "projectFileMap": {
+      "my-new-lib": [
+        {
+          "file": "libs/my-new-lib/.babelrc",
+          "hash": "2946678488919325452"
+        },
+        {
+          "file": "libs/my-new-lib/README.md",
+          "hash": "15919352191753946949"
+        },
+        {
+          "file": "libs/my-new-lib/eslint.config.js",
+          "hash": "18206053935892145363",
+          "deps": [
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "libs/my-new-lib/jest.config.ts",
+          "hash": "8257674029886264123"
+        },
+        {
+          "file": "libs/my-new-lib/package.json",
+          "hash": "6004583153306331108"
+        },
+        {
+          "file": "libs/my-new-lib/project.json",
+          "hash": "5573659994985372216"
+        },
+        {
+          "file": "libs/my-new-lib/src/index.ts",
+          "hash": "14924230148129155619"
+        },
+        {
+          "file": "libs/my-new-lib/src/lib/my-new-lib.module.css",
+          "hash": "125145030238681982"
+        },
+        {
+          "file": "libs/my-new-lib/src/lib/my-new-lib.spec.tsx",
+          "hash": "15690571548402876007",
+          "deps": [
+            "npm:@testing-library/react"
+          ]
+        },
+        {
+          "file": "libs/my-new-lib/src/lib/my-new-lib.tsx",
+          "hash": "16419608034615712128"
+        },
+        {
+          "file": "libs/my-new-lib/tsconfig.json",
+          "hash": "10374583890390798648"
+        },
+        {
+          "file": "libs/my-new-lib/tsconfig.lib.json",
+          "hash": "6750625921117520019"
+        },
+        {
+          "file": "libs/my-new-lib/tsconfig.spec.json",
+          "hash": "6514620907549802163"
+        },
+        {
+          "file": "libs/my-new-lib/vite.config.ts",
+          "hash": "15861404953905565221",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-react",
+            "npm:vite-plugin-dts",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "my-new-lib-2": [
+        {
+          "file": "libs/my-new-lib-2/.babelrc",
+          "hash": "2946678488919325452"
+        },
+        {
+          "file": "libs/my-new-lib-2/README.md",
+          "hash": "147907374448662814"
+        },
+        {
+          "file": "libs/my-new-lib-2/eslint.config.js",
+          "hash": "18206053935892145363",
+          "deps": [
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "libs/my-new-lib-2/jest.config.ts",
+          "hash": "9727264670185357205"
+        },
+        {
+          "file": "libs/my-new-lib-2/package.json",
+          "hash": "10145906616996202674"
+        },
+        {
+          "file": "libs/my-new-lib-2/project.json",
+          "hash": "2562484792611753587"
+        },
+        {
+          "file": "libs/my-new-lib-2/src/index.ts",
+          "hash": "8225393865049797812"
+        },
+        {
+          "file": "libs/my-new-lib-2/src/lib/my-new-lib-2.module.css",
+          "hash": "125145030238681982"
+        },
+        {
+          "file": "libs/my-new-lib-2/src/lib/my-new-lib-2.spec.tsx",
+          "hash": "5652464546233024221",
+          "deps": [
+            "npm:@testing-library/react"
+          ]
+        },
+        {
+          "file": "libs/my-new-lib-2/src/lib/my-new-lib-2.tsx",
+          "hash": "9711247250951740667"
+        },
+        {
+          "file": "libs/my-new-lib-2/tsconfig.json",
+          "hash": "10374583890390798648"
+        },
+        {
+          "file": "libs/my-new-lib-2/tsconfig.lib.json",
+          "hash": "6750625921117520019"
+        },
+        {
+          "file": "libs/my-new-lib-2/tsconfig.spec.json",
+          "hash": "6514620907549802163"
+        },
+        {
+          "file": "libs/my-new-lib-2/vite.config.ts",
+          "hash": "962313477594127875",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-react",
+            "npm:vite-plugin-dts",
+            "npm:@nx/vite"
+          ]
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "17518101370203799420"
+      },
+      {
+        "file": ".npmrc",
+        "hash": "14811914485333114286"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "dist/libs/my-new-lib/README.md",
+        "hash": "15919352191753946949"
+      },
+      {
+        "file": "dist/libs/my-new-lib/index.d.ts",
+        "hash": "14924230148129155619"
+      },
+      {
+        "file": "dist/libs/my-new-lib/index.js",
+        "hash": "12889081387100348226"
+      },
+      {
+        "file": "dist/libs/my-new-lib/index.mjs",
+        "hash": "8498646835558203810"
+      },
+      {
+        "file": "dist/libs/my-new-lib/lib/my-new-lib.d.ts",
+        "hash": "6937550887495712770"
+      },
+      {
+        "file": "dist/libs/my-new-lib/package.json",
+        "hash": "6004583153306331108"
+      },
+      {
+        "file": "dist/libs/my-new-lib/style.css",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "eslint.config.js",
+        "hash": "2478217381773231556"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "3494843969422251966"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "9430166341120122740"
+      },
+      {
+        "file": "lerna.json",
+        "hash": "10307142885639291195"
+      },
+      {
+        "file": "nx.json",
+        "hash": "3790000929440957977"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "16717678654282119515"
+      },
+      {
+        "file": "package.json",
+        "hash": "13650079101786713129"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "5792272023758231629"
+      }
+    ]
+  }
+}
